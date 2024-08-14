@@ -1,0 +1,7 @@
+C:\Users\gabri\Desktop\Exercícios C#\idades\idades\bin\Debug\idades.exe.config
+C:\Users\gabri\Desktop\Exercícios C#\idades\idades\bin\Debug\idades.exe
+C:\Users\gabri\Desktop\Exercícios C#\idades\idades\bin\Debug\idades.pdb
+C:\Users\gabri\Desktop\Exercícios C#\idades\idades\obj\Debug\idades.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Exercícios C#\idades\idades\obj\Debug\idades.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Exercícios C#\idades\idades\obj\Debug\idades.exe
+C:\Users\gabri\Desktop\Exercícios C#\idades\idades\obj\Debug\idades.pdb

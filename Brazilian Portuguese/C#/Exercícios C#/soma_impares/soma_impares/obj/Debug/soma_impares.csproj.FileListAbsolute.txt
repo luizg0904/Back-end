@@ -1,0 +1,7 @@
+C:\Users\gabri\Desktop\Exercícios C#\soma_impares\soma_impares\obj\Debug\soma_impares.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Exercícios C#\soma_impares\soma_impares\obj\Debug\soma_impares.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Exercícios C#\soma_impares\soma_impares\bin\Debug\soma_impares.exe.config
+C:\Users\gabri\Desktop\Exercícios C#\soma_impares\soma_impares\bin\Debug\soma_impares.exe
+C:\Users\gabri\Desktop\Exercícios C#\soma_impares\soma_impares\bin\Debug\soma_impares.pdb
+C:\Users\gabri\Desktop\Exercícios C#\soma_impares\soma_impares\obj\Debug\soma_impares.exe
+C:\Users\gabri\Desktop\Exercícios C#\soma_impares\soma_impares\obj\Debug\soma_impares.pdb

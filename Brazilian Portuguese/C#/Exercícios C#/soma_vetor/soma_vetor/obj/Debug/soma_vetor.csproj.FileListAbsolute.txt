@@ -1,0 +1,7 @@
+C:\Users\gabri\Desktop\Exercícios C#\soma_vetor\soma_vetor\bin\Debug\soma_vetor.exe.config
+C:\Users\gabri\Desktop\Exercícios C#\soma_vetor\soma_vetor\bin\Debug\soma_vetor.exe
+C:\Users\gabri\Desktop\Exercícios C#\soma_vetor\soma_vetor\bin\Debug\soma_vetor.pdb
+C:\Users\gabri\Desktop\Exercícios C#\soma_vetor\soma_vetor\obj\Debug\soma_vetor.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Exercícios C#\soma_vetor\soma_vetor\obj\Debug\soma_vetor.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Exercícios C#\soma_vetor\soma_vetor\obj\Debug\soma_vetor.exe
+C:\Users\gabri\Desktop\Exercícios C#\soma_vetor\soma_vetor\obj\Debug\soma_vetor.pdb

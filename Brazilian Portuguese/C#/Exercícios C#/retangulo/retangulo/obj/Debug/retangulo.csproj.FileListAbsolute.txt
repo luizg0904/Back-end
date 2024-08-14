@@ -1,0 +1,7 @@
+C:\Users\gabri\Desktop\Exercícios C#\retangulo\retangulo\bin\Debug\retangulo.exe.config
+C:\Users\gabri\Desktop\Exercícios C#\retangulo\retangulo\bin\Debug\retangulo.exe
+C:\Users\gabri\Desktop\Exercícios C#\retangulo\retangulo\bin\Debug\retangulo.pdb
+C:\Users\gabri\Desktop\Exercícios C#\retangulo\retangulo\obj\Debug\retangulo.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Exercícios C#\retangulo\retangulo\obj\Debug\retangulo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Exercícios C#\retangulo\retangulo\obj\Debug\retangulo.exe
+C:\Users\gabri\Desktop\Exercícios C#\retangulo\retangulo\obj\Debug\retangulo.pdb

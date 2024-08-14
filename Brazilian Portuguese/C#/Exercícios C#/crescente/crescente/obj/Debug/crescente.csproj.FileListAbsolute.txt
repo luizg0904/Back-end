@@ -1,0 +1,7 @@
+C:\Users\gabri\Desktop\Exercícios C#\crescente\crescente\bin\Debug\crescente.exe.config
+C:\Users\gabri\Desktop\Exercícios C#\crescente\crescente\bin\Debug\crescente.exe
+C:\Users\gabri\Desktop\Exercícios C#\crescente\crescente\bin\Debug\crescente.pdb
+C:\Users\gabri\Desktop\Exercícios C#\crescente\crescente\obj\Debug\crescente.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Exercícios C#\crescente\crescente\obj\Debug\crescente.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Exercícios C#\crescente\crescente\obj\Debug\crescente.exe
+C:\Users\gabri\Desktop\Exercícios C#\crescente\crescente\obj\Debug\crescente.pdb

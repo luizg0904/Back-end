@@ -1,0 +1,7 @@
+C:\Users\gabri\Desktop\Exercícios C#\menor_de_tres\menor_de_tres\bin\Debug\menor_de_tres.exe.config
+C:\Users\gabri\Desktop\Exercícios C#\menor_de_tres\menor_de_tres\bin\Debug\menor_de_tres.exe
+C:\Users\gabri\Desktop\Exercícios C#\menor_de_tres\menor_de_tres\bin\Debug\menor_de_tres.pdb
+C:\Users\gabri\Desktop\Exercícios C#\menor_de_tres\menor_de_tres\obj\Debug\menor_de_tres.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Exercícios C#\menor_de_tres\menor_de_tres\obj\Debug\menor_de_tres.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Exercícios C#\menor_de_tres\menor_de_tres\obj\Debug\menor_de_tres.exe
+C:\Users\gabri\Desktop\Exercícios C#\menor_de_tres\menor_de_tres\obj\Debug\menor_de_tres.pdb
