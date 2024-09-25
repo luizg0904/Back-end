@@ -1,0 +1,10 @@
+C:\Users\gabri\source\repos\CalculadoraIMC\CalculadoraIMC\bin\Debug\CalculadoraIMC.exe.config
+C:\Users\gabri\source\repos\CalculadoraIMC\CalculadoraIMC\bin\Debug\CalculadoraIMC.exe
+C:\Users\gabri\source\repos\CalculadoraIMC\CalculadoraIMC\bin\Debug\CalculadoraIMC.pdb
+C:\Users\gabri\source\repos\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.Form1.resources
+C:\Users\gabri\source\repos\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.Properties.Resources.resources
+C:\Users\gabri\source\repos\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.exe
+C:\Users\gabri\source\repos\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.pdb
